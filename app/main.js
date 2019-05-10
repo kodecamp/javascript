@@ -12,5 +12,3 @@ const p3 = {
   name: "Rakesh",
   address: "Lucknow"
 };
-
-
